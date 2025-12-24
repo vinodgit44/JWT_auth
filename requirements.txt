@@ -1,0 +1,8 @@
+fastapi
+uvicorn 
+python-jose 
+streamlit-cookies-manager
+passlib[argon2]
+streamlit
+requests
+python-multipart
