@@ -78,9 +78,9 @@ Example payload:
 
 ```json
 {
-  "sub": "vinod",
+  "sub": "admin",
   "role": "engineer",
-  "permissions": ["query", "telemetry"],
+  "permissions": ["query", "LLM"],
   "exp": 1700000000
 }
 ```
